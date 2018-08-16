@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1534251356 source:c:\users\rei panda\desktop\huffman\huffman_encoder\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
